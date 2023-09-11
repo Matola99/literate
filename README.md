@@ -1,5 +1,5 @@
 # literate<h1 align="center">Hi 👋, I'm piet motloutsi</h1>
-<h3 align="center">A passionate web developer from South Africar</h3>
+<h3 align="center">A passionate web developer from South Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matola99&label=Profile%20views&color=0e75b6&style=flat" alt="matola99" /> </p>
 
